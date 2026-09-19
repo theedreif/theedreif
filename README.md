@@ -55,6 +55,7 @@ The recurring question is simple:
 ## Explore
 
 🌐 [EdReif.com](https://www.edreif.com/) — operational readiness, decision science, writing, and current work  
+🧭 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — selected learning, operational readiness, and instructional design work  
 🌊 [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/) — travel, experience, stories, and a long-form archive  
 🏝️ [Share Fair Isle](https://www.sharefairisle.com/) — an Arctic-island field project and story archive  
 ▶️ [YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
