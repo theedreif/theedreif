@@ -1,5 +1,8 @@
 # Ed Reif
 
+Ed Reif is an author, traveler, storyteller, and decision-science practitioner whose work explores what happens when uncertainty, risk, identity, and experience collide.
+
+
 ### Operational Readiness Architect · Instructional Systems Designer · Learning Experience Designer · Author · Decision-Science Practitioner
 
 **I build capability, not courses. If it cannot survive the field, it does not count.**
