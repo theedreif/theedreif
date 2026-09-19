@@ -1,27 +1,25 @@
 # Ed Reif
 
-### Operational Readiness Architect · Author · Decision-Science Practitioner
+### Operational Readiness Architect · Instructional Systems Designer · Learning Experience Designer · Author · Decision-Science Practitioner
 
 **I build capability, not courses. If it cannot survive the field, it does not count.**
 
-My work sits at the intersection of **operational readiness, judgment under uncertainty, decision science, autonomous systems, and field learning**.
+My work sits at the intersection of **operational readiness, learning architecture, judgment under uncertainty, decision science, autonomous systems, and field learning**.
 
 I design learning and decision systems for the point where plans meet reality—when operators have incomplete information, limited time, changing conditions, and consequences attached to the decision.
 
-# START HERE / FLAGSHIP WORK
+# START HERE / FIELD SYSTEM
 
-If you are new to my work, start with these four repositories. Together they form a practical operating system for capability and decision-making under uncertainty.
+> # BUILD → DECIDE → POSITION → TEST → UPDATE
 
 ## 1. [Operational Readiness](https://github.com/theedreif/operational-readiness)
 ### BUILD THE CAPABILITY.
-
-Frameworks, doctrine, field tools, and applied work for preparing people to perform when conditions change.
+Frameworks and field tools for preparing people to perform when conditions change.
 
 > **Scenario is the product. Friction is the mechanism. Evidence beats completion.**
 
 ## 2. [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)
 ### MAKE THE DECISION.
-
 Decision architecture for the moment when reality departs from the plan.
 
 > **SIGNAL → CONDITION → LIMIT → DECISION → EVIDENCE**
@@ -32,7 +30,6 @@ DFR implementation:
 
 ## 3. [Decision Science](https://github.com/theedreif/decision-science)
 ### DESIGN THE BET.
-
 Probability, asymmetry, optionality, behavioral economics, poker, risk, and better decisions when outcomes cannot be guaranteed.
 
 > **PROTECT THE FLOOR → IMPROVE THE ODDS → PRESERVE OPTIONALITY → POSITION FOR UPSIDE**
@@ -41,14 +38,45 @@ Probability, asymmetry, optionality, behavioral economics, poker, risk, and bett
 
 ## 4. [Field Notes](https://github.com/theedreif/field-notes)
 ### TEST THE IDEAS AGAINST REALITY.
-
 The field library connecting operational readiness, AI, autonomous systems, human-machine teaming, and high-consequence communication.
 
 > **BUILD READINESS → SCALE JUDGMENT → OPERATE AUTONOMY → COMMUNICATE UNDER CONSEQUENCE**
 
-### The System
+---
 
-> # BUILD → DECIDE → POSITION → TEST → UPDATE
+# EXECUTABLE SKILLS
+
+The repositories contain the doctrine. These skills turn that doctrine into repeatable AI-assisted methods.
+
+| # | Skill | Function | Source |
+|---|---|---|---|
+| 1 | **Operational Readiness** | BUILD — turn requirements into field-capable performance | [Open Skill](https://github.com/theedreif/operational-readiness/tree/main/skills/operational-readiness) |
+| 2 | **Judgment at the Edge** | DECIDE — structure consequential decisions under uncertainty | [Open Skill](https://github.com/theedreif/judgment-at-the-edge/tree/main/skills/judgment-at-the-edge) |
+| 3 | **Design the Bet** | POSITION — protect the floor, improve the odds, preserve optionality, position for upside | [Open Skill](https://github.com/theedreif/decision-science/tree/main/skills/design-the-bet) |
+| 4 | **Test Against Reality** | TEST + UPDATE — compare claims with field evidence and revise | [Open Skill](https://github.com/theedreif/field-notes/tree/main/skills/test-against-reality) |
+| 5 | **Learning Journey Architect / XMAL** | ARCHITECT — combine ISD rigor, LXD experience, scroll-native delivery, transfer, and evidence | [Open Skill](https://github.com/theedreif/field-notes/tree/main/skills/learning-journey-architect) |
+
+## Skill #5 — Learning Journey Architect / XMAL
+
+> **ISD engineers the capability. LXD engineers the journey. XMAL engineers the experience.**
+
+> **The learner moves through meaning, not slides.**
+
+ISD backbone:
+
+> **TASK → TLO/EO → CONDITION → PERFORMANCE → STANDARD → PRACTICE → EVIDENCE**
+
+LXD journey:
+
+> **ORIENT → EXPLORE → NOTICE → DECIDE → PRACTICE → REFLECT → APPLY → PROVE**
+
+XMAL experience:
+
+> **SCROLL → ENCOUNTER → INTERACT → DECIDE → CONSEQUENCE → CONTINUE**
+
+**[Canonical XMAL Implementation](https://edcreates.s3.us-west-1.amazonaws.com/xmandash.html)** — live scroll-native instructional design control panel.
+
+The companion **Rise 360 HTML Build** skill handles implementation engineering for custom Rise interactions; Learning Journey Architect determines what experience should exist and why.
 
 ---
 
@@ -60,6 +88,8 @@ The field library connecting operational readiness, AI, autonomous systems, huma
 
 **[DIVE-XL Maritime Autonomy Curriculum](https://edcreates.s3.us-west-1.amazonaws.com/xman.html)** — curriculum concept for autonomous undersea systems
 
+**[XMAL Instructional Design Control Panel](https://edcreates.s3.us-west-1.amazonaws.com/xmandash.html)** — interactive learning architecture reference
+
 **[What to Expect When You're Expecting Drones](https://open.spotify.com/show/6r2GI9oDPEOz5zloBijDlR)** — audio field book on the birth of the Robotic Warfare Specialist
 
 **[Operational Readiness & Mission Success](https://www.amazon.com/dp/B0HJ41ZTK9)** — four-book field library
@@ -70,6 +100,9 @@ The field library connecting operational readiness, AI, autonomous systems, huma
 
 **Operational Readiness**  
 Moving beyond course completion toward demonstrated capability: scenario-based learning, friction, telemetry, trust calibration, and evidence from performance.
+
+**Learning Architecture — ISD + LXD + XMAL**  
+Systematic task and objective rigor packaged inside human-centered journeys, deliberate practice, purposeful friction, point-of-performance support, transfer, and evidence.
 
 **Judgment at the Edge**  
 Building practical decision architecture for uncertainty, time pressure, and consequential action.
