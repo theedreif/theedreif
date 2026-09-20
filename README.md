@@ -12,6 +12,8 @@ I design learning and decision systems for the point where plans meet reality—
 
 # THE ED REIF FIELD SYSTEM
 
+**Ed Reif Field System v1.0 — September 2026**
+
 ## One Body of Work. Seven Doors In.
 
 > **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**
