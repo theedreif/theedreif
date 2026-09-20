@@ -74,6 +74,16 @@ The continuous human-capability layer for extracting expert judgment, applying s
 
 ---
 
+# THE GOLDEN THREAD
+
+**EXPERIENCE → DOCTRINE → JUDGMENT → TOOL → FRICTION → EVIDENCE → UPDATE**
+
+![The Golden Thread](assets/field-system/The%20Golden%20Thread.jpeg)
+
+> **Trace Everything. Duplicate Nothing.**
+
+---
+
 # FIELD CARD
 
 **The entire Field System in one portable artifact.**
