@@ -141,6 +141,7 @@ The recurring question is simple:
 🧭 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — selected learning, operational readiness, and instructional design work  
 🌊 [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/) — decision science, travel, experience, stories, and a long-form archive  
 🏝️ [Share Fair Isle](https://www.sharefairisle.com/) — remote-island field project and story archive  
+⚓ [Deja Blue](https://crusiewithed.blogspot.com/) — life at sea, world cruises, and the journeys between ports  
 ▶️ [YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
 
 ---
