@@ -74,6 +74,18 @@ The continuous human-capability layer for extracting expert judgment, applying s
 
 ---
 
+# FIELD CARD
+
+**The entire Field System in one portable artifact.**
+
+Seven Doors. Core operating loops. Field instruments. Evidence ladder.
+
+**[Download the Ed Reif Field System Field Card](assets/field-system/Ed-Reif-Field-System-Field-Card.pdf)**
+
+> **Engineering in. Capability out. Evidence always.**
+
+---
+
 # EXECUTABLE SKILLS
 
 The repositories contain the doctrine. These skills turn that doctrine into repeatable AI-assisted methods.
