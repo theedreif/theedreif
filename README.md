@@ -137,11 +137,13 @@ The recurring question is simple:
 
 ## Explore
 
-🌐 [EdReif.com](https://www.edreif.com/) — operational readiness, decision science, writing, and current work  
-🧭 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — selected learning, operational readiness, and instructional design work  
-🌊 [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/) — decision science, travel, experience, stories, and a long-form archive  
-🏝️ [Share Fair Isle](https://www.sharefairisle.com/) — remote-island field project and story archive  
-⚓ [Deja Blue](https://crusiewithed.blogspot.com/) — life at sea, world cruises, and the journeys between ports  
+🌐 [EdReif.com](https://www.edreif.com/) — books, essays, doctrine, and current work  
+🧭 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
+🎲 [Decision Science](https://www.thereisnolimitlikenolimit.com/) — probability, asymmetry, poker, and judgment under uncertainty  
+🏝️ [Share Fair Isle](https://www.sharefairisle.com/) — field experience from a remote island environment  
+⚓ [Deja Blue](https://crusiewithed.blogspot.com/) — life at sea and world travel  
+🏠 [Rock & Roam](https://rockandroamingib.blogspot.com/) — Gibraltar, remote work, and the asymmetrical life  
+🐾 [Skyelark](https://skyelarkdoglets.blogspot.com/) — travel through a Scottish Terrier's eyes  
 ▶️ [YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
 
 ---
