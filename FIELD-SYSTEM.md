@@ -1,4 +1,6 @@
-# ED REIF FIELD SYSTEM — MANIFEST v1.0
+# ED REIF FIELD SYSTEM — MANIFEST
+
+**Ed Reif Field System v1.0 — September 2026**
 
 **One Body of Work. Seven Doors In.**
 
@@ -110,6 +112,14 @@ Before adding a repository, framework, instrument, or named layer:
 6. **Earn the addition.** Add architecture only when the gap is functional, persistent, and evidenced.
 
 If those conditions are not met, extend an existing Door.
+
+## Version & Provenance
+
+**Canonical release:** Ed Reif Field System v1.0 — September 2026
+
+**Version rule:** Architecture or governance changes increment the Field System version. Minor compatible changes become v1.1, v1.2, and so on. A structural change to the Seven Doors or governing architecture requires a major version. Editorial corrections that do not change meaning may be recorded without promoting the architecture version.
+
+No silent drift. Every substantive change must be explicit, versioned, and traceable through repository history.
 
 ## Governance
 
