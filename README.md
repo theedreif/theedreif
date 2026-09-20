@@ -200,3 +200,12 @@ The recurring question is simple:
 ### The technology changes. The operating problem does not.
 
 **Somebody still has to recognize when reality has departed from the plan—and decide what to do next.**
+
+
+---
+
+## Field System Governance
+
+**[Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md)** is the canonical source for the Seven Doors, Golden Thread, Single Source of Truth, Evidence Ladder, naming conventions, and the rule for adding anything new.
+
+> **One canonical architecture. Many paths to it.**
