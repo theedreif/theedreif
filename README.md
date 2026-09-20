@@ -137,14 +137,14 @@ The recurring question is simple:
 
 ## Explore
 
-🌐 [EdReif.com](https://www.edreif.com/) — books, essays, doctrine, and current work  
-🧭 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
-🎲 [Decision Science](https://www.thereisnolimitlikenolimit.com/) — probability, asymmetry, poker, and judgment under uncertainty  
-🏝️ [Share Fair Isle](https://www.sharefairisle.com/) — field experience from a remote island environment  
-⚓ [Deja Blue](https://crusiewithed.blogspot.com/) — life at sea and world travel  
-🏠 [Rock & Roam](https://rockandroamingib.blogspot.com/) — Gibraltar, remote work, and the asymmetrical life  
-🐾 [Skyelark](https://skyelarkdoglets.blogspot.com/) — travel through a Scottish Terrier's eyes  
-▶️ [YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
+[EdReif.com](https://www.edreif.com/) — books, essays, doctrine, and current work  
+[Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
+[Decision Science](https://www.thereisnolimitlikenolimit.com/) — probability, asymmetry, poker, and judgment under uncertainty  
+[Share Fair Isle](https://www.sharefairisle.com/) — field experience from a remote island environment  
+[Deja Blue](https://crusiewithed.blogspot.com/) — life at sea and world travel  
+[Rock & Roam](https://rockandroamingib.blogspot.com/) — Gibraltar, remote work, and the asymmetrical life  
+[Skyelark](https://skyelarkdoglets.blogspot.com/) — travel through a Scottish Terrier's eyes  
+[YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
 
 ---
 
