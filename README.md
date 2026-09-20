@@ -2,7 +2,6 @@
 
 Ed Reif is an author, operational readiness architect, instructional systems designer, and decision-science practitioner. His work focuses on judgment under uncertainty, autonomous systems, field learning, and high-consequence communication.
 
-
 ### Operational Readiness Architect · Instructional Systems Designer · Learning Experience Designer · Author · Decision-Science Practitioner
 
 **I build capability, not courses. If it cannot survive the field, it does not count.**
@@ -11,9 +10,13 @@ My work sits at the intersection of **operational readiness, learning architectu
 
 I design learning and decision systems for the point where plans meet reality—when operators have incomplete information, limited time, changing conditions, and consequences attached to the decision.
 
-# START HERE / FIELD SYSTEM
+# THE ED REIF FIELD SYSTEM
 
-> # BUILD → DECIDE → POSITION → TEST → UPDATE
+## One Body of Work. Seven Doors In.
+
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**
+
+The Field System connects doctrine, judgment, decision science, communication, experimentation, evidence, and continuous deployment into one operating architecture.
 
 ## 1. [Operational Readiness](https://github.com/theedreif/operational-readiness)
 ### BUILD THE CAPABILITY.
@@ -39,11 +42,35 @@ Probability, asymmetry, optionality, behavioral economics, poker, risk, and bett
 
 **You cannot control the cards. You can design the bet.**
 
-## 4. [Field Notes](https://github.com/theedreif/field-notes)
-### TEST THE IDEAS AGAINST REALITY.
-The field library connecting operational readiness, AI, autonomous systems, human-machine teaming, and high-consequence communication.
+## 4. [High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)
+### CLOSE THE GAP.
+Communication architecture for environments where ambiguity has consequences.
 
-> **BUILD READINESS → SCALE JUDGMENT → OPERATE AUTONOMY → COMMUNICATE UNDER CONSEQUENCE**
+> **SAID → HEARD → UNDERSTOOD → ACTED → VERIFIED**
+
+**Did meaning survive the handoff?**
+
+## 5. [Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)
+### PROVE IT UNDER FRICTION.
+The experimental layer where doctrine is instrumented, stressed, observed, and updated.
+
+> **FAILURE MODE → SIGNAL → THRESHOLD → FRICTION → RED → EVIDENCE → UPDATE**
+
+**The repositories explain the doctrine. The Lab shows what happens when you run it.**
+
+## 6. [Field Notes](https://github.com/theedreif/field-notes)
+### UPDATE FROM REALITY.
+The living evidence layer connecting operational readiness, AI, autonomous systems, human-machine teaming, and field observations.
+
+> **NOTICE → CAPTURE → COMPARE → LEARN → UPDATE**
+
+## 7. [Operational Readiness-as-a-Service (ORaaS)](https://github.com/theedreif/oraas)
+### DEPLOY THE SYSTEM.
+The continuous human-capability layer for extracting expert judgment, applying synthetic friction, capturing behavioral telemetry, validating field outcomes, and reducing operational variance.
+
+> **The Diagnostic starts the curve. ORaaS keeps it running.**
+
+**The Lab produces evidence. ORaaS keeps the instrument running.**
 
 ---
 
