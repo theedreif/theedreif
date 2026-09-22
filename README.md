@@ -186,15 +186,22 @@ The recurring question is simple:
 
 **What must a person be able to notice, decide, and do when reality departs from the plan?**
 
-## Explore
+## Six Worlds — Origin
 
-[EdReif.com](https://www.edreif.com/) — books, essays, doctrine, and current work  
-[Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
+The Six Worlds document **where the thinking came from**. They are public origin and evidence domains, not one-to-one equivalents of the Seven operational Doors.
+
+[EdReif.com](https://www.edreif.com/) — canonical identity, synthesis, books, essays, doctrine, and current work  
 [Decision Science](https://www.thereisnolimitlikenolimit.com/) — probability, asymmetry, poker, and judgment under uncertainty  
-[Share Fair Isle](https://www.sharefairisle.com/) — field experience from a remote island environment  
-[Deja Blue](https://crusiewithed.blogspot.com/) — life at sea and world travel  
-[Rock & Roam](https://rockandroamingib.blogspot.com/) — Gibraltar, remote work, and the asymmetrical life  
-[Skyelark](https://skyelarkdoglets.blogspot.com/) — travel through a Scottish Terrier's eyes  
+[Deja Blue](https://crusiewithed.blogspot.com/) — maritime life, mobility, cross-cultural experience, and world travel  
+[Share Fair Isle](https://www.sharefairisle.com/) — adaptation, constraint, place, attention, and remote-island life  
+[Rock & Roam](https://rockandroamingib.blogspot.com/) — Gibraltar, geographic optionality, remote work, and portable output  
+[Skyelark MacDoglet](https://skyelarkdoglets.blogspot.com/) — attention, companionship, cognition, belonging, and family narrative
+
+**[Canonical Six Worlds navigation specification](SIX-WORLDS-NAVIGATION.md)** — shared footer/navigation model for the public ecosystem.
+
+## Other Public Work
+
+[Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
 [YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
 
 ---
