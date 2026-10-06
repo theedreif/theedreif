@@ -3,6 +3,7 @@
 > The Poker Lobotomy is Ed Reif's poker decision-training system: 20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and long-form Learn Poker in Your Sleep sessions designed to improve decisions under uncertainty.
 
 Canonical site: https://theedreif.github.io/theedreif/
+Canonical identity page: https://theedreif.github.io/theedreif/about/
 Creator: Ed Reif — https://www.edreif.com/
 
 ## Core learning modes
@@ -12,6 +13,34 @@ Creator: Ed Reif — https://www.edreif.com/
 - [The 500-Second Poker Rewire](https://theedreif.github.io/theedreif/500-second/)
 - [Learn Poker in Your Sleep](https://theedreif.github.io/theedreif/sleep/)
 
+## 60-Second Rewire library
+
+- [001 — The Chips Belong to the Pot](https://theedreif.github.io/theedreif/rewires/001-chips-belong-to-pot/)
+- [002 — Why Top Pair Is Broken Multi-Way](https://theedreif.github.io/theedreif/rewires/002-top-pair-multiway/)
+- [003 — The Weak Kicker Disaster](https://theedreif.github.io/theedreif/rewires/003-weak-kicker/)
+- [004 — Surviving Pocket Jacks](https://theedreif.github.io/theedreif/rewires/004-pocket-jacks/)
+- [005 — Pocket Aces in a 4-Way Pot](https://theedreif.github.io/theedreif/rewires/005-pocket-aces-multiway/)
+- [006 — The Rule of 2 & 4](https://theedreif.github.io/theedreif/rewires/006-rule-of-2-and-4/)
+- [007 — The Secret Power of 1/3 Pot Bets](https://theedreif.github.io/theedreif/rewires/007-one-third-pot-bet/)
+- [008 — The 10:1 Set-Mining Mandate](https://theedreif.github.io/theedreif/rewires/008-set-mining-10-to-1/)
+- [009 — The Bluff-Catching Ledger](https://theedreif.github.io/theedreif/rewires/009-bluff-catching-ledger/)
+- [010 — The MDF Reality Check](https://theedreif.github.io/theedreif/rewires/010-minimum-defense-frequency/)
+- [011 — The 1 BB Per Limper Rule](https://theedreif.github.io/theedreif/rewires/011-one-bb-per-limper/)
+- [012 — Positional Neglect](https://theedreif.github.io/theedreif/rewires/012-positional-neglect/)
+- [013 — Stop Defending the Blinds Like This](https://theedreif.github.io/theedreif/rewires/013-stop-defending-blinds/)
+- [014 — Ace-King Out of Position](https://theedreif.github.io/theedreif/rewires/014-ace-king-out-of-position/)
+- [015 — Why Multi-Way Bets Get Smaller](https://theedreif.github.io/theedreif/rewires/015-multiway-bet-sizing/)
+- [016 — The 3-Bet Trap](https://theedreif.github.io/theedreif/rewires/016-three-bet-trap/)
+- [017 — Dry Boards vs. Wet Boards](https://theedreif.github.io/theedreif/rewires/017-dry-vs-wet-boards/)
+- [018 — Monotone Flops: Slow Down](https://theedreif.github.io/theedreif/rewires/018-monotone-flops/)
+- [019 — Why Suited Connectors Need Deep Stacks](https://theedreif.github.io/theedreif/rewires/019-suited-connectors-stack-depth/)
+- [020 — The Low Flush Trap](https://theedreif.github.io/theedreif/rewires/020-low-flush-trap/)
+- [021 — The Sizing Tell](https://theedreif.github.io/theedreif/rewires/021-bet-sizing-tell/)
+- [022 — The Static Strategy Leak](https://theedreif.github.io/theedreif/rewires/022-static-strategy-leak/)
+- [023 — The Overbet: Polarize or Don’t](https://theedreif.github.io/theedreif/rewires/023-overbet-polarization/)
+- [024 — The Triple-Barrel Bluff](https://theedreif.github.io/theedreif/rewires/024-triple-barrel/)
+- [025 — Stop Making the Pot Bigger for Everyone Else](https://theedreif.github.io/theedreif/rewires/025-stop-building-pot-for-everyone/)
+
 ## Official media and source pages
 
 - [YouTube — all Poker Lobotomy videos](https://www.youtube.com/@theofficialedreif/videos)
@@ -19,6 +48,9 @@ Creator: Ed Reif — https://www.edreif.com/
 - [60-Second Rewires playlist](https://youtube.com/playlist?list=PLYE5I6m7A0p8)
 - [Learn Poker in Your Sleep playlist](https://youtube.com/playlist?list=PLR6BhH2rdXw4)
 - [Decision Science archive](https://www.thereisnolimitlikenolimit.com/)
+- [60-Second Rewire Hub](https://www.thereisnolimitlikenolimit.com/2026/10/the-poker-lobotomy-rewire-hub-60-second.html)
+- [The 500-Second Poker Rewire](https://www.thereisnolimitlikenolimit.com/2026/10/the-500-second-poker-rewire.html)
+- [The First Five: Learn Poker in Your Sleep](https://www.thereisnolimitlikenolimit.com/2026/09/the-poker-lobotomy-first-five-learn.html)
 
 ## Topics
 
