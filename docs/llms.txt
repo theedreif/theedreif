@@ -1,0 +1,25 @@
+# The Poker Lobotomy
+
+> The Poker Lobotomy is Ed Reif's poker decision-training system: 20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and long-form Learn Poker in Your Sleep sessions designed to improve decisions under uncertainty.
+
+Canonical site: https://theedreif.github.io/theedreif/
+Creator: Ed Reif — https://www.edreif.com/
+
+## Core learning modes
+
+- [20-Second Poker Rewires — Short Attention Span Theater](https://theedreif.github.io/theedreif/sast/)
+- [60-Second Rewires](https://theedreif.github.io/theedreif/rewires/)
+- [The 500-Second Poker Rewire](https://theedreif.github.io/theedreif/500-second/)
+- [Learn Poker in Your Sleep](https://theedreif.github.io/theedreif/sleep/)
+
+## Official media and source pages
+
+- [YouTube — all Poker Lobotomy videos](https://www.youtube.com/@theofficialedreif/videos)
+- [20-Second Rewires playlist](https://youtube.com/playlist?list=PLB3dgrJ5u9jM)
+- [60-Second Rewires playlist](https://youtube.com/playlist?list=PLYE5I6m7A0p8)
+- [Learn Poker in Your Sleep playlist](https://youtube.com/playlist?list=PLR6BhH2rdXw4)
+- [Decision Science archive](https://www.thereisnolimitlikenolimit.com/)
+
+## Topics
+
+Texas Hold'em strategy; poker probability; GTO; bet sizing; position; pot odds; bluffing; board texture; multi-way pots; tilt control; bankroll discipline; decision science; mental game.
