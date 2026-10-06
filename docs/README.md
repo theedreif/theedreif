@@ -13,3 +13,8 @@ The Poker Lobotomy is Ed Reif's poker decision-training system: 20-Second Rewire
 - [Decision Science archive](https://www.thereisnolimitlikenolimit.com/)
 
 Created by [Ed Reif](https://www.edreif.com/).
+
+
+## Repository map
+
+For the complete human + machine-readable architecture, see [START HERE](../START-HERE.md).
