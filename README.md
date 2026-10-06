@@ -199,6 +199,19 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 **[Canonical Six Worlds navigation specification](SIX-WORLDS-NAVIGATION.md)** — shared footer/navigation model for the public ecosystem.
 
+
+
+## The Poker Lobotomy
+
+**[The Poker Lobotomy](https://theedreif.github.io/theedreif/)** is Ed Reif's poker decision-training system: **20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and Learn Poker in Your Sleep** — designed to improve decisions under uncertainty.
+
+**Canonical identity:** [About The Poker Lobotomy](https://theedreif.github.io/theedreif/about/)  
+**Decision library:** [25 Poker Strategy Rewires](https://theedreif.github.io/theedreif/rewires/)  
+**YouTube:** [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)  
+**Decision Science archive:** [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)
+
+> **One leak. One hand. One rule. One better decision.**
+
 ## Other Public Work
 
 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
