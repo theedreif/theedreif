@@ -1,5 +1,8 @@
 # Ed Reif
 
+> **New here?** Start with **[START HERE — The Poker Lobotomy](START-HERE.md)** for the complete site, video, metadata, and companion-web ecosystem map.
+
+
 Ed Reif is an author, operational readiness architect, instructional systems designer, and decision-science practitioner. His work focuses on judgment under uncertainty, autonomous systems, field learning, and high-consequence communication.
 
 ### Operational Readiness Architect · Instructional Systems Designer · Learning Experience Designer · Author · Decision-Science Practitioner
