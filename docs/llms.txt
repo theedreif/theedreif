@@ -6,6 +6,11 @@ Canonical site: https://theedreif.github.io/theedreif/
 Canonical identity page: https://theedreif.github.io/theedreif/about/
 Creator: Ed Reif — https://www.edreif.com/
 
+## New series — October 2026
+
+- [The AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) — 24 unique exported video entries, GTO, AI and poker decision science. [YouTube playlist](https://www.youtube.com/playlist?list=PLHGuiIZ-saJE).
+- [ASMR Poker Girl | 20-Second Poker Leaks](https://theedreif.github.io/theedreif/asmr-poker-girl/) — Skyelark-hosted poker lessons, 29 exported video entries. [YouTube playlist](https://www.youtube.com/playlist?list=PLMs6bPypMCZI).
+
 ## Core learning modes
 
 - [20-Second Poker Rewires — Short Attention Span Theater](https://theedreif.github.io/theedreif/sast/)
