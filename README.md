@@ -206,6 +206,9 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 ## The Poker Lobotomy
 
+**New October 2026 series:** [The AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) — AI, GTO and probability; [ASMR Poker Girl | 20-Second Poker Leaks](https://theedreif.github.io/theedreif/asmr-poker-girl/) — hosted by Skyelark. Both link to exported episodes and playlists.
+
+
 **[The Poker Lobotomy](https://theedreif.github.io/theedreif/)** is Ed Reif's poker decision-training system: **20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and Learn Poker in Your Sleep** — designed to improve decisions under uncertainty.
 
 **Canonical identity:** [About The Poker Lobotomy](https://theedreif.github.io/theedreif/about/)  
