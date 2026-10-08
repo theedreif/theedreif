@@ -11,6 +11,11 @@
 - **YouTube channel:** https://www.youtube.com/@theofficialedreif/videos
 - **Decision Science archive:** https://www.thereisnolimitlikenolimit.com/
 
+## October 2026 additions
+
+- **The AI Poker Guy:** https://theedreif.github.io/theedreif/ai-poker-guy/ — 24 video entries in the supplied export; playlist https://www.youtube.com/playlist?list=PLHGuiIZ-saJE
+- **ASMR Poker Girl:** https://theedreif.github.io/theedreif/asmr-poker-girl/ — hosted by Skyelark, 29 video entries in the supplied export; playlist https://www.youtube.com/playlist?list=PLMs6bPypMCZI
+
 ## 2. The learning architecture
 
 ### NOW — Short Attention Span Theater
@@ -52,7 +57,7 @@ Long-form repetition, mental rehearsal, and reinforcement.
 - **500-Second VideoObjects:** `docs/500-second/index.html`
 - **Learn Poker in Your Sleep VideoObjects:** `docs/sleep/index.html`
 
-## 4. Current video graph
+## 4. Original video graph (October 6 baseline; see new series above for October 8 additions)
 
 The repository currently connects the text corpus to YouTube through structured `VideoObject` metadata.
 
