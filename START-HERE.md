@@ -10,6 +10,7 @@
 - **Creator:** https://www.edreif.com/
 - **YouTube channel:** https://www.youtube.com/@theofficialedreif/videos
 - **Decision Science archive:** https://www.thereisnolimitlikenolimit.com/
+- **20-Second Poker Strategy Tips — published companion article:** https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html
 
 ## October 2026 additions
 
@@ -22,7 +23,8 @@
 20-second poker rewires.
 
 - GitHub Pages: https://theedreif.github.io/theedreif/sast/
-- YouTube playlist: https://youtube.com/playlist?list=PLB3dgrJ5u9jM
+- YouTube playlist: https://www.youtube.com/playlist?list=PLRXMIteFNtIM
+- Published Blogger guide: https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html
 
 ### NOW — 60-Second Rewires
 One leak. One hand. One rule. One better decision.
