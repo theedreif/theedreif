@@ -11,6 +11,11 @@ Creator: Ed Reif — https://www.edreif.com/
 - [The AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) — 24 unique exported video entries, GTO, AI and poker decision science. [YouTube playlist](https://www.youtube.com/playlist?list=PLHGuiIZ-saJE).
 - [ASMR Poker Girl | 20-Second Poker Leaks](https://theedreif.github.io/theedreif/asmr-poker-girl/) — Skyelark-hosted poker lessons, 29 exported video entries. [YouTube playlist](https://www.youtube.com/playlist?list=PLMs6bPypMCZI).
 
+## Official 20-Second Poker Rewires guide
+
+- [20-Second Poker Strategy Tips: Stop Making These Costly Texas Hold’em Mistakes | The Poker Lobotomy](https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html) — Published Decision Science companion page covering Texas Hold’em strategy, common poker mistakes, the one-leak/one-rule/one-better-decision format, and the rewire loop.
+- [20-Second Poker Rewires — YouTube playlist](https://www.youtube.com/playlist?list=PLRXMIteFNtIM) — Short Attention Span Theater videos.
+
 ## Core learning modes
 
 - [20-Second Poker Rewires — Short Attention Span Theater](https://theedreif.github.io/theedreif/sast/)
@@ -49,7 +54,7 @@ Creator: Ed Reif — https://www.edreif.com/
 ## Official media and source pages
 
 - [YouTube — all Poker Lobotomy videos](https://www.youtube.com/@theofficialedreif/videos)
-- [20-Second Rewires playlist](https://youtube.com/playlist?list=PLB3dgrJ5u9jM)
+- [20-Second Rewires playlist](https://www.youtube.com/playlist?list=PLRXMIteFNtIM)
 - [60-Second Rewires playlist](https://youtube.com/playlist?list=PLYE5I6m7A0p8)
 - [Learn Poker in Your Sleep playlist](https://youtube.com/playlist?list=PLR6BhH2rdXw4)
 - [Decision Science archive](https://www.thereisnolimitlikenolimit.com/)
