@@ -8,7 +8,7 @@
 - **Live GitHub Pages site:** https://theedreif.github.io/theedreif/
 - **Canonical identity page:** https://theedreif.github.io/theedreif/about/
 - **Creator:** https://www.edreif.com/
-- **YouTube channel:** https://www.youtube.com/@theofficialedreif/videos
+- **YouTube channel:** Poker Rewires | Upgrade Your Poker — https://www.youtube.com/@theofficialedreif/videos
 - **Decision Science archive:** https://www.thereisnolimitlikenolimit.com/
 - **20-Second Poker Strategy Tips — published companion article:** https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html
 
