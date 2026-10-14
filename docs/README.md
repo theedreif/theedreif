@@ -18,3 +18,5 @@ Created by [Ed Reif](https://www.edreif.com/).
 ## Repository map
 
 For the complete human + machine-readable architecture, see [START HERE](../START-HERE.md).
+
+**Official YouTube channel:** [Poker Rewires | Upgrade Your Poker](https://www.youtube.com/@theofficialedreif/videos) (@theofficialedreif).
