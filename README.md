@@ -213,7 +213,7 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 **Canonical identity:** [About The Poker Lobotomy](https://theedreif.github.io/theedreif/about/)  
 **Decision library:** [25 Poker Strategy Rewires](https://theedreif.github.io/theedreif/rewires/)  
-**YouTube:** [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)  
+**YouTube:** **Poker Rewires | Upgrade Your Poker** — [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)  
 **Decision Science archive:** [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)
 
 > **One leak. One hand. One rule. One better decision.**
