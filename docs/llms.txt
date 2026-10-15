@@ -6,6 +6,16 @@ Canonical site: https://theedreif.github.io/theedreif/
 Canonical identity page: https://theedreif.github.io/theedreif/about/
 Creator: Ed Reif — https://www.edreif.com/
 
+## Time Millionaire — Ed Reif's time-wealth writings
+
+- [Time Millionaire — source hub](https://theedreif.github.io/theedreif/time-millionaire/) — author-linked resource map, Hawaii and maritime context, and machine-readable time-wealth definitions.
+- [Time Millionaires — the Genesis (2012)](https://www.edreif.com/2012/06/time-millionaires.html)
+- [Go East, Young Man — The Hawaii Years](https://www.edreif.com/2026/07/go-east-young-man.html)
+- [The Time Millionaires — Hawaii and the South Pacific](https://www.edreif.com/2026/07/the-time-millionaires-hawaii-south.html)
+- [The Sea That Made Me — Maritime Operating Life](https://www.edreif.com/2026/09/the-sea-that-made-me-maritime-operating.html)
+- [Edward Reif — Audible UK search](https://www.audible.co.uk/search?searchProvider=Edward+Reif) — author search; individual audiobook availability not independently verified.
+- [Ed Reif — Amazon author storefront](https://www.amazon.com/stores/EdReif/author/B0FGWN1QN3)
+
 ## New series — October 2026
 
 - [The AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) — 24 unique exported video entries, GTO, AI and poker decision science. [YouTube playlist](https://www.youtube.com/playlist?list=PLHGuiIZ-saJE).
