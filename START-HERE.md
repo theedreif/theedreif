@@ -12,6 +12,18 @@
 - **Decision Science archive:** https://www.thereisnolimitlikenolimit.com/
 - **20-Second Poker Strategy Tips — published companion article:** https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html
 
+## Time Millionaire — Books, Hawaii and maritime context
+
+- **Time Millionaire GitHub Pages source hub:** https://theedreif.github.io/theedreif/time-millionaire/
+- **Original Time Millionaires essay (2012):** https://www.edreif.com/2012/06/time-millionaires.html
+- **Go East, Young Man — The Hawaii Years:** https://www.edreif.com/2026/07/go-east-young-man.html
+- **The Time Millionaires — Hawaii and the South Pacific:** https://www.edreif.com/2026/07/the-time-millionaires-hawaii-south.html
+- **The Sea That Made Me — Maritime Operating Life:** https://www.edreif.com/2026/09/the-sea-that-made-me-maritime-operating.html
+- **Audible UK author search:** https://www.audible.co.uk/search?searchProvider=Edward+Reif
+- **Amazon author storefront:** https://www.amazon.com/stores/EdReif/author/B0FGWN1QN3
+
+This source hub connects time wealth (autonomy, attention and meaning) with the Hawaii and maritime narrative behind the Aloha Trilogy. Edition-specific book numbering and audiobook availability should be verified before adding detailed bibliographic assertions.
+
 ## October 2026 additions
 
 - **The AI Poker Guy:** https://theedreif.github.io/theedreif/ai-poker-guy/ — 24 video entries in the supplied export; playlist https://www.youtube.com/playlist?list=PLHGuiIZ-saJE
