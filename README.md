@@ -137,6 +137,23 @@ The companion **Rise 360 HTML Build** skill handles implementation engineering f
 
 ---
 
+## EdReif.com — updated Field System gateway (20 October 2026)
+
+**[Ed Reif Field System — Judgment Under Uncertainty](https://theedreif.github.io/theedreif/field-system/)** mirrors the books, portfolio and case-study navigation published in the updated [EdReif.com](https://www.edreif.com/) Blogger homepage. The Blogger site remains the canonical identity source; this GitHub Pages page is a companion, not a replacement for the Blogger theme.
+
+**The Books. The Portfolio. The Experience.** Twelve books. Three series. Field experience and better decisions.
+
+- [The Asymmetrical Life](https://www.amazon.com/dp/B0HGS4HMM2)
+- [The Aloha Trilogy](https://www.amazon.com/dp/B0HJ518Q8S)
+- [Operational Readiness & Mission Success](https://www.amazon.com/dp/B0HJ41ZTK9)
+- [Professional Portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html)
+- [Gibraltar Health Authority](https://edcreates.s3.us-west-1.amazonaws.com/Splash1.html)
+- [Relativity Space](https://edcreates.s3.us-west-1.amazonaws.com/Splash2.html)
+- [Skydio DFR | Drone as First Responder](https://skydio-operational-memory.s3.us-west-1.amazonaws.com/ce.html)
+- [Anduril Dive XL | Submarine](https://edcreates.s3.us-west-1.amazonaws.com/xman.html)
+
+**Decision Science companion:** [Decision Science on GitHub Pages](https://theedreif.github.io/theedreif/decision-science/) · [Why Most Players Misread Poker Tells](https://www.thereisnolimitlikenolimit.com/2026/10/why-most-players-misread-poker-tells.html)
+
 ## Selected Evidence
 
 **[Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html)** — selected learning, operational readiness, and instructional design work
