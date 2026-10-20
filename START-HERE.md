@@ -12,6 +12,16 @@
 - **Decision Science archive:** https://www.thereisnolimitlikenolimit.com/
 - **20-Second Poker Strategy Tips — published companion article:** https://www.thereisnolimitlikenolimit.com/2026/10/20-second-poker-strategy-tips-stop.html
 
+## Field System and Decision Science (20 October 2026)
+
+- **Canonical Ed Reif identity:** https://www.edreif.com/ — the live Blogger site, not hosted by GitHub Pages.
+- **Updated Field System companion page:** https://theedreif.github.io/theedreif/field-system/ — books, professional portfolio, Gibraltar Health Authority, Relativity Space, Skydio DFR, and Anduril Dive XL.
+- **Decision Science companion page:** https://theedreif.github.io/theedreif/decision-science/
+- **Why Most Players Misread Poker Tells — published article:** https://www.thereisnolimitlikenolimit.com/2026/10/why-most-players-misread-poker-tells.html
+- **Decision Science repository:** https://github.com/theedreif/decision-science
+
+The updated Blogger XML was used as the source for the professional navigation. The Blogger XML itself is **not** the GitHub Pages site's HTML template.
+
 ## Time Millionaire — Books, Hawaii and maritime context
 
 - **Time Millionaire GitHub Pages source hub:** https://theedreif.github.io/theedreif/time-millionaire/
