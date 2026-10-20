@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://theedreif.github.io/theedreif/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://theedreif.github.io/theedreif/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://theedreif.github.io/theedreif/about/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://theedreif.github.io/theedreif/rewires/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://theedreif.github.io/theedreif/rewires/001-chips-belong-to-pot/</loc><lastmod>2026-10-06</lastmod></url>
@@ -33,4 +33,6 @@
   <url><loc>https://theedreif.github.io/theedreif/sleep/</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://theedreif.github.io/theedreif/ai-poker-guy/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://theedreif.github.io/theedreif/asmr-poker-girl/</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://theedreif.github.io/theedreif/field-system/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://theedreif.github.io/theedreif/decision-science/</loc><lastmod>2026-10-20</lastmod></url>
 </urlset>
