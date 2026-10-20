@@ -6,6 +6,27 @@ Canonical site: https://theedreif.github.io/theedreif/
 Canonical identity page: https://theedreif.github.io/theedreif/about/
 Creator: Ed Reif — https://www.edreif.com/
 
+## Ed Reif Field System — updated Blogger homepage links (20 October 2026)
+
+Canonical identity: https://www.edreif.com/
+GitHub Pages companion: https://theedreif.github.io/theedreif/field-system/
+Professional positioning: The Ed Reif Field System — Judgment Under Uncertainty. The Books. The Portfolio. The Experience. Twelve books, three series, field experience and better decisions.
+
+- [The Asymmetrical Life](https://www.amazon.com/dp/B0HGS4HMM2)
+- [The Aloha Trilogy](https://www.amazon.com/dp/B0HJ518Q8S)
+- [Operational Readiness & Mission Success](https://www.amazon.com/dp/B0HJ41ZTK9)
+- [Professional Portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html)
+- [Gibraltar Health Authority](https://edcreates.s3.us-west-1.amazonaws.com/Splash1.html)
+- [Relativity Space](https://edcreates.s3.us-west-1.amazonaws.com/Splash2.html)
+- [Skydio DFR — Drone as First Responder](https://skydio-operational-memory.s3.us-west-1.amazonaws.com/ce.html)
+- [Anduril Dive XL — Submarine](https://edcreates.s3.us-west-1.amazonaws.com/xman.html)
+
+## Decision Science — published poker-tells article
+
+- [Decision Science library](https://theedreif.github.io/theedreif/decision-science/)
+- [Why Most Players Misread Poker Tells](https://www.thereisnolimitlikenolimit.com/2026/10/why-most-players-misread-poker-tells.html) — published companion article linked by Ed Reif.
+- [Decision Science repository](https://github.com/theedreif/decision-science)
+
 ## Time Millionaire — Ed Reif's time-wealth writings
 
 - [Time Millionaire — source hub](https://theedreif.github.io/theedreif/time-millionaire/) — author-linked resource map, Hawaii and maritime context, and machine-readable time-wealth definitions.
