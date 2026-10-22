@@ -13,6 +13,25 @@ My work sits at the intersection of **operational readiness, learning architectu
 
 I design learning and decision systems for the point where plans meet reality—when operators have incomplete information, limited time, changing conditions, and consequences attached to the decision.
 
+## ED REIF — OFFICIAL WEBSITE NETWORK
+
+**One body of work. Six websites. One connected directory.**
+
+[EdReif.com](https://www.edreif.com/) is the central identity and Field System gateway. These public sites provide distinct evidence, stories, projects, and publications across Ed Reif's work.
+
+| Website | Focus |
+|---|---|
+| **[EdReif.com](https://www.edreif.com/)** | Author identity, instructional design, operational readiness, publications, and the Ed Reif Field System |
+| **[Share Fair Isle](https://www.sharefairisle.com/)** | Remote-island life, adaptation, constraint, and experience-based learning |
+| **[Decision Science — There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)** | Probability, poker strategy, Poker Rewires, behavioral decision science, and judgment under uncertainty |
+| **[Cruise With Ed / Deja Blue](https://crusiewithed.blogspot.com/)** | Maritime life, world travel, cross-cultural experience, and life at sea |
+| **[Skyelark MacDoglet](https://skyelarkdoglets.blogspot.com/)** | Scottish Terrier stories, companionship, cognition, and the Skyelark MacDoglet books |
+| **[Rock and Roaming Gib](https://rockandroamingib.blogspot.com/)** | Gibraltar, geographic mobility, travel, and portable work |
+
+**Explore the wider system:** [Six Worlds — Origin](#six-worlds--origin) · [Seven Doors of the Field System](#one-body-of-work-seven-doors-in) · [The Poker Lobotomy](#the-poker-lobotomy)
+
+---
+
 # THE ED REIF FIELD SYSTEM
 
 **Ed Reif Field System v1.0 — September 2026**
