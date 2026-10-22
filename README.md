@@ -30,6 +30,12 @@ I design learning and decision systems for the point where plans meet reality—
 
 **Explore the wider system:** [Six Worlds — Origin](#six-worlds--origin) · [Seven Doors of the Field System](#one-body-of-work-seven-doors-in) · [The Poker Lobotomy](#the-poker-lobotomy)
 
+### ED REIF — BOOKS & AUTHOR PROFILE
+
+**[Amazon Author Page — Ed Reif](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3)** — Explore Ed Reif's published books and author profile on Amazon.
+
+Ed Reif is an author, instructional systems designer, and decision-science practitioner. His writing connects operational readiness, judgment under uncertainty, travel, and experience-based learning. Featured bodies of work include **The Asymmetrical Life**, **The Aloha Trilogy**, and **Operational Readiness & Mission Success**.
+
 ---
 
 # THE ED REIF FIELD SYSTEM
