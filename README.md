@@ -1,6 +1,8 @@
-# Ed Reif
+# Ed Reif | Operational Readiness · Learning Architecture · Decision Science
 
-> **New here?** Start with **[START HERE — The Poker Lobotomy](START-HERE.md)** for the complete site, video, metadata, and companion-web ecosystem map.
+> **Start here — professional identity:** [Who is Ed Reif? Expertise and public evidence](ABOUT-ED-REIF.md) · [The Ed Reif Field System](FIELD-SYSTEM.md) · [Professional Portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html).
+>
+> **Specialist project — [Poker Rewires | Upgrade Your Poker](POKER-REWIRES.md):** 20-second, 60-second and longer poker decision lessons. [Watch the project](https://theedreif.github.io/theedreif/) or [explore its source map](START-HERE.md).
 
 
 Ed Reif is an author, operational readiness architect, instructional systems designer, and decision-science practitioner. His work focuses on judgment under uncertainty, autonomous systems, field learning, and high-consequence communication.
@@ -12,6 +14,16 @@ Ed Reif is an author, operational readiness architect, instructional systems des
 My work sits at the intersection of **operational readiness, learning architecture, judgment under uncertainty, decision science, autonomous systems, and field learning**.
 
 I design learning and decision systems for the point where plans meet reality—when operators have incomplete information, limited time, changing conditions, and consequences attached to the decision.
+
+## Three Questions · Three Clear Answers
+
+**Who is Ed Reif?** An author, instructional systems designer, learning architect, operational readiness practitioner and decision-science writer. [Read the professional identity profile](ABOUT-ED-REIF.md).
+
+**What does he specialise in?** Designing capability for real-world conditions: operational readiness, learning architecture, judgment under uncertainty, autonomous systems and high-consequence communication. [Explore the Seven Doors](FIELD-SYSTEM.md).
+
+**What evidence demonstrates the work?** Public frameworks, books, independent curriculum concepts, live learning demonstrations and selected case studies. [Inspect the evidence and its provenance](ABOUT-ED-REIF.md#what-evidence-supports-the-work) · [View the portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html). Independently authored concepts are not represented as employer-endorsed or operationally deployed projects without separate evidence.
+
+**Specialist application:** [Poker Rewires](POKER-REWIRES.md) applies short-form learning design and decision science to Texas Hold'em; it is **one project**, not the umbrella for the full professional body of work.
 
 ## ED REIF — OFFICIAL WEBSITE NETWORK
 
@@ -246,19 +258,17 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 
 
-## The Poker Lobotomy
+## Specialist Project — Poker Rewires | Upgrade Your Poker
 
-**New October 2026 series:** [The AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) — AI, GTO and probability; [ASMR Poker Girl | 20-Second Poker Leaks](https://theedreif.github.io/theedreif/asmr-poker-girl/) — hosted by Skyelark. Both link to exported episodes and playlists.
+**[Explore the Poker Rewires specialist-project hub](POKER-REWIRES.md)** — a decision-science and microlearning application created by Ed Reif, powered by *The Poker Lobotomy* learning system. This project sits within the broader [Ed Reif Field System](FIELD-SYSTEM.md) and [Decision Science](https://github.com/theedreif/decision-science).
 
+**Live learning library:** [Poker Rewires](https://theedreif.github.io/theedreif/) · [20-Second Rewires](https://theedreif.github.io/theedreif/sast/) · [60-Second Rewires](https://theedreif.github.io/theedreif/rewires/) · [500-Second Rewire](https://theedreif.github.io/theedreif/500-second/) · [Pre-sleep sessions](https://theedreif.github.io/theedreif/sleep/).
 
-**[The Poker Lobotomy](https://theedreif.github.io/theedreif/)** is Ed Reif's poker decision-training system: **20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and Learn Poker in Your Sleep** — designed to improve decisions under uncertainty.
+**Additional series:** [AI Poker Guy](https://theedreif.github.io/theedreif/ai-poker-guy/) · [ASMR Poker Girl](https://theedreif.github.io/theedreif/asmr-poker-girl/).
 
-**Canonical identity:** [About The Poker Lobotomy](https://theedreif.github.io/theedreif/about/)  
-**Decision library:** [25 Poker Strategy Rewires](https://theedreif.github.io/theedreif/rewires/)  
-**YouTube:** **Poker Rewires | Upgrade Your Poker** — [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)  
-**Decision Science archive:** [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)
+**Watch:** [Poker Rewires | Upgrade Your Poker — @theofficialedreif](https://www.youtube.com/@theofficialedreif/videos) · **Source map:** [START HERE — Poker Rewires](START-HERE.md).
 
-> **One leak. One hand. One rule. One better decision.**
+> **One leak. One rule. One better decision. Next hand.**
 
 ## Other Public Work
 
@@ -273,6 +283,10 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 
 ---
+
+## AI Visibility — Separate Evidence, Not a Claimed Ranking
+
+**[AI Citation Tracker](AI-CITATION-TRACKER.md)** defines how to measure answer accuracy and actual source citations across AI assistants. The public web footprint and machine-readable metadata make information available for retrieval but **do not establish AI citation frequency**.
 
 ## Field System Governance
 
