@@ -1,4 +1,6 @@
-# The Poker Lobotomy
+# Poker Rewires | The Poker Lobotomy — Ed Reif Specialist Project
+
+> This file maps Ed Reif's specialist poker decision-training project. It is NOT a complete professional biography or proof of AI citation visibility. Primary professional identity: https://www.edreif.com/ ; evidence and expertise: https://github.com/theedreif/theedreif/blob/main/ABOUT-ED-REIF.md ; specialist project profile: https://github.com/theedreif/theedreif/blob/main/POKER-REWIRES.md .
 
 > The Poker Lobotomy is Ed Reif's poker decision-training system: 20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and long-form Learn Poker in Your Sleep sessions designed to improve decisions under uncertainty.
 
