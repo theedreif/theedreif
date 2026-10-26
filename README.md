@@ -272,6 +272,12 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 > **One leak. One rule. One better decision. Next hand.**
 
+## Author Biography & Books
+
+**[About Ed Reif — professional biography](ABOUT-ED-REIF.md)** — author, operational readiness architect, instructional systems designer, and decision-science practitioner.
+
+**[Luck Is Probability Taken Personally — Second Edition](https://www.amazon.com/Luck-Probability-Taken-Personally-Randomness/dp/B0FLLPNTM6)** — Amazon book listing. **[Read the accompanying blog post](https://www.thereisnolimitlikenolimit.com/2024/12/luck-is-probability-taken-pewrsonally.html)**.
+
 ## New Biography — Broke Living, High Rolling
 
 **[The Luckiest Broke Man in Poker — biography announcement](https://www.thereisnolimitlikenolimit.com/2026/10/the-luckiest-broke-man-in-poker.html)** — blog announcement for *Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande*.
