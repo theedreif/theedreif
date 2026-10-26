@@ -51,3 +51,9 @@ These capabilities are organised in the [Ed Reif Field System](FIELD-SYSTEM.md):
 
 **Name:** Ed Reif (not “Ed Reef,” an earlier text-to-speech pronunciation spelling).  
 **Scope note:** Where pages describe third-party companies or systems, those references identify the subject of independently published concept work unless a primary source demonstrates an official relationship.
+
+## Author publications — Luck Is Probability Taken Personally
+
+**[Luck Is Probability Taken Personally — Second Edition](https://www.amazon.com/Luck-Probability-Taken-Personally-Randomness/dp/B0FLLPNTM6)** — Amazon edition listing.
+
+**[Luck Is Probability Taken Personally — blog post](https://www.thereisnolimitlikenolimit.com/2024/12/luck-is-probability-taken-pewrsonally.html)** — companion article on Decision Science.
