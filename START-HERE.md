@@ -36,6 +36,12 @@ The updated Blogger XML was used as the source for the professional navigation. 
 
 This source hub connects time wealth (autonomy, attention and meaning) with the Hawaii and maritime narrative behind the Aloha Trilogy. Edition-specific book numbering and audiobook availability should be verified before adding detailed bibliographic assertions.
 
+## Ed Reif — author biography and decision-science book
+
+- **Author biography:** [About Ed Reif](ABOUT-ED-REIF.md)
+- **Luck Is Probability Taken Personally — Second Edition:** https://www.amazon.com/Luck-Probability-Taken-Personally-Randomness/dp/B0FLLPNTM6
+- **Companion blog post:** https://www.thereisnolimitlikenolimit.com/2024/12/luck-is-probability-taken-pewrsonally.html
+
 ## Biography announcement — Broke Living, High Rolling
 
 - **The Luckiest Broke Man in Poker — announcement:** https://www.thereisnolimitlikenolimit.com/2026/10/the-luckiest-broke-man-in-poker.html
