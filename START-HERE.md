@@ -36,6 +36,11 @@ The updated Blogger XML was used as the source for the professional navigation. 
 
 This source hub connects time wealth (autonomy, attention and meaning) with the Hawaii and maritime narrative behind the Aloha Trilogy. Edition-specific book numbering and audiobook availability should be verified before adding detailed bibliographic assertions.
 
+## Biography announcement — Broke Living, High Rolling
+
+- **The Luckiest Broke Man in Poker — announcement:** https://www.thereisnolimitlikenolimit.com/2026/10/the-luckiest-broke-man-in-poker.html
+- **Book:** *Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande*
+
 ## October 2026 additions
 
 - **The AI Poker Guy:** https://theedreif.github.io/theedreif/ai-poker-guy/ — 24 video entries in the supplied export; playlist https://www.youtube.com/playlist?list=PLHGuiIZ-saJE
