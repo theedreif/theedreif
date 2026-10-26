@@ -272,6 +272,10 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 > **One leak. One rule. One better decision. Next hand.**
 
+## New Biography — Broke Living, High Rolling
+
+**[The Luckiest Broke Man in Poker — biography announcement](https://www.thereisnolimitlikenolimit.com/2026/10/the-luckiest-broke-man-in-poker.html)** — blog announcement for *Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande*.
+
 ## Other Public Work
 
 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
