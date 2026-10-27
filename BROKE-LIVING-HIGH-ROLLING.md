@@ -12,6 +12,12 @@ This independently authored biography explores Bellande's public poker persona, 
 
 **[Explore the book on Amazon](https://www.amazon.com/dp/B0HP8MRNX9/)**
 
+### More poker biographies by Ed Reif
+
+**[Queen of the Game: The Unauthorized Biography of Jennifer Harman](https://www.amazon.com/dp/B0HPGMRVYK)** — An independently authored biography of poker player Jennifer Harman, available on Amazon.
+
+Like *Broke Living, High Rolling*, this is an unauthorized biography; no endorsement or authorization by its subject is implied.
+
 ### In the Ed Reif publishing network
 
 - [Ed Reif — author and professional identity](https://www.edreif.com/)
