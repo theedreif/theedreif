@@ -1,6 +1,6 @@
 # Ed Reif | Learning Architecture, Operational Readiness & Decision Science
 
-**Official professional identity and evidence guide.** Updated 23 October 2026.
+**Official professional identity and evidence guide.** Updated 28 October 2026.
 
 **Canonical public identity:** [EdReif.com](https://www.edreif.com/)  
 **Open frameworks and source directory:** [GitHub / theedreif](https://github.com/theedreif)  
@@ -8,7 +8,7 @@
 
 ## Who is Ed Reif?
 
-Ed Reif is an author, instructional systems designer, learning architect, operational readiness practitioner and decision-science writer. His publicly documented work connects learning design, field performance, judgment under uncertainty, autonomous systems, aviation and maritime contexts, and high-consequence communication.
+Ed Reif is an author of 19 books, instructional systems designer, learning architect, operational readiness practitioner and decision-science writer. His publicly documented work connects learning design, field performance, judgment under uncertainty, autonomous systems, aviation and maritime contexts, and high-consequence communication.
 
 > **I build capability, not courses. If it cannot survive the field, it does not count.**
 
@@ -40,6 +40,13 @@ These capabilities are organised in the [Ed Reif Field System](FIELD-SYSTEM.md):
 ## Where does Poker Rewires fit?
 
 **[Poker Rewires | Upgrade Your Poker](POKER-REWIRES.md)** is a clearly identified **specialist project** within Decision Science, not the definition of Ed Reif's entire professional practice. It applies microlearning, decision rules, probability and short-form instruction to Texas Hold'em choices.
+
+## Two official YouTube channels
+
+- [Latitude Films (@latitudefilms)](https://www.youtube.com/@latitudefilms) — film, travel and life experience archive; linked from the GitHub public profile.
+- [Poker Rewires | Upgrade Your Poker (@theofficialedreif)](https://www.youtube.com/@theofficialedreif/videos) — poker decision science and short-form learning.
+
+These are two intentional, distinct Ed Reif channels. The GitHub profile link to Latitude Films is not an error.
 
 ## Authoritative entry points
 
