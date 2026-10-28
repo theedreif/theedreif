@@ -44,6 +44,8 @@ I design learning and decision systems for the point where plans meet reality—
 
 ### ED REIF — BOOKS & AUTHOR PROFILE
 
+**Published library: 19 books** spanning decision science, operational readiness, life at sea, travel and poker. [Explore the author catalogue on Amazon](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3).
+
 **New biography — [Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande](BROKE-LIVING-HIGH-ROLLING.md)** — An independently authored poker biography. [View on Amazon](https://www.amazon.com/dp/B0HP8MRNX9/).
 
 **[Amazon Author Page — Ed Reif](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3)** — Explore Ed Reif's published books and author profile on Amazon.
@@ -180,7 +182,7 @@ The companion **Rise 360 HTML Build** skill handles implementation engineering f
 
 **[Ed Reif Field System — Judgment Under Uncertainty](https://theedreif.github.io/theedreif/field-system/)** mirrors the books, portfolio and case-study navigation published in the updated [EdReif.com](https://www.edreif.com/) Blogger homepage. The Blogger site remains the canonical identity source; this GitHub Pages page is a companion, not a replacement for the Blogger theme.
 
-**The Books. The Portfolio. The Experience.** Twelve books. Three series. Field experience and better decisions.
+**The Books. The Portfolio. The Experience.** Nineteen books. Three core series. Field experience and better decisions.
 
 - [The Asymmetrical Life](https://www.amazon.com/dp/B0HGS4HMM2)
 - [The Aloha Trilogy](https://www.amazon.com/dp/B0HJ518Q8S)
@@ -282,10 +284,18 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 **[The Luckiest Broke Man in Poker — biography announcement](https://www.thereisnolimitlikenolimit.com/2026/10/the-luckiest-broke-man-in-poker.html)** — blog announcement for *Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande*.
 
+## Two YouTube Channels — Two Distinct Editorial Purposes
+
+Both channels belong to Ed Reif. They are intentionally separate, not competing or incorrect profile links.
+
+- **[Latitude Films — @latitudefilms](https://www.youtube.com/@latitudefilms)** — Ed Reif's wider film, travel, life experience and video archive. This channel is linked from the GitHub profile.
+- **[Poker Rewires | Upgrade Your Poker — @theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)** — specialist poker microlearning, probability and decision-science videos. This channel is linked from the Poker Rewires project.
+
 ## Other Public Work
 
 [Portfolio 2026](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html) — operational readiness, learning architecture, and instructional design  
-[YouTube](https://www.youtube.com/@thereisnolimitlikenolimit) — video archive and field stories
+[Latitude Films YouTube archive](https://www.youtube.com/@latitudefilms) — travel, films and life stories  
+[Poker Rewires YouTube](https://www.youtube.com/@theofficialedreif/videos) — poker learning and decision science
 
 ---
 
