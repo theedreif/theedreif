@@ -2,7 +2,7 @@
 
 **Specialist project · Decision Science · Learning Architecture**  
 **Creator:** Ed Reif  
-**YouTube:** [@theofficialedreif — Poker Rewires](https://www.youtube.com/@theofficialedreif/videos)  
+**Poker Rewires YouTube:** [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos) — specialist poker channel (distinct from Ed Reif's [Latitude Films @latitudefilms](https://www.youtube.com/@latitudefilms) film/travel archive)  
 **Live project site:** [The Poker Lobotomy — Poker Rewires](https://theedreif.github.io/theedreif/)
 
 ## What is Poker Rewires?
