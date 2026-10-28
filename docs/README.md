@@ -19,4 +19,4 @@ Created by [Ed Reif](https://www.edreif.com/).
 
 For the complete human + machine-readable architecture, see [START HERE](../START-HERE.md).
 
-**Official YouTube channel:** [Poker Rewires | Upgrade Your Poker](https://www.youtube.com/@theofficialedreif/videos) (@theofficialedreif).
+**Poker-specific YouTube channel:** [Poker Rewires | Upgrade Your Poker](https://www.youtube.com/@theofficialedreif/videos) (@theofficialedreif). Ed Reif also owns a separate [Latitude Films YouTube channel](https://www.youtube.com/@latitudefilms) (@latitudefilms) for film, travel and life stories. Both links are intentional.
