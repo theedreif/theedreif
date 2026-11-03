@@ -12,7 +12,7 @@ This independently authored biography explores Bellande's public poker persona, 
 
 **[Explore the book on Amazon](https://www.amazon.com/dp/B0HP8MRNX9/)**
 
-## Legends of Poker — The Unauthorized Biography Series
+## THE SEDUCTION OF POKER — Legends of Poker Unauthorized Biographies
 
 **[Explore the series on Amazon](https://www.amazon.com/dp/B0HPFVHS1K)**
 
@@ -36,16 +36,46 @@ Because poker has never been just about winning money. It's about reading people
 
 **First you play for fun. Then you play for money. Finally, you play for the love of the game.**
 
-### The first two biographies
+### The four-book series
 
-1. **[Broke Living, High Rolling — The Unauthorized Biography of Jean-Robert Bellande](https://www.amazon.com/dp/B0HP8MRNX9/)**
-2. **[Queen of the Game — The Unauthorized Biography of Jennifer Harman](https://www.amazon.com/dp/B0HPGMRVYK)**
+The Amazon Kindle series is listed as **THE SEDUCTION OF POKER**. The editorial umbrella is **Legends of Poker — The Unauthorized Biography Series**.
 
-### More poker biographies by Ed Reif
+1. **[Broke Living, High Rolling — The Unauthorized Biography of Jean-Robert Bellande](https://www.amazon.com/dp/B0HP8MRNX9/)** — Book 1.
+2. **[Queen of the Game — The Unauthorized Biography of Jennifer Harman](https://www.amazon.com/dp/B0HPGMRVYK)** — Book 2.
+3. **[ME AND MY BIG MOUTH: The Unauthorized Biography of Mike “The Mouth” Matusow](https://www.amazon.com/gp/product/B0HQ1C9BPZ)** — Book 3.
+4. **[WELCOME TO THE JUNGLE: The Unauthorized Biography Of Dan ‘Jungleman’ Cates](https://www.amazon.com/gp/product/B0HQ1BMWYP)** — Book 4.
 
-**[Queen of the Game: The Unauthorized Biography of Jennifer Harman](https://www.amazon.com/dp/B0HPGMRVYK)** — An independently authored biography of poker player Jennifer Harman, available on Amazon.
+### Book 3 — ME AND MY BIG MOUTH
 
-Like *Broke Living, High Rolling*, this is an unauthorized biography; no endorsement or authorization by its subject is implied.
+**Author:** Ed Reif  
+**Format:** Kindle Edition  
+**Series:** THE SEDUCTION OF POKER, Book 3 of 4  
+**[Amazon book page](https://www.amazon.com/gp/product/B0HQ1C9BPZ)**
+
+**Poker taught a generation to hide its emotions. Mike Matusow made a career out of showing his.**
+
+Four World Series of Poker bracelets across four games, two Main Event final tables, a Tournament of Champions victory, and a national heads-up title are only part of the story. *Me and My Big Mouth* examines the public highs and personal costs of a player whose personality remained unmistakably human as poker entered the solver era.
+
+**Golden Thread:** Unfiltered authenticity, pain, and the soul of old-school poker.
+
+**Bonus:** A pilot screenplay for the proposed television adaptation, *The Man Who Couldn't Stay Silent*.
+
+*Unauthorized biography. Not approved, endorsed, or reviewed by Mike Matusow.*
+
+### Book 4 — WELCOME TO THE JUNGLE
+
+**Author:** Ed Reif  
+**Format:** Kindle Edition  
+**Series:** THE SEDUCTION OF POKER, Book 4 of 4  
+**[Amazon book page](https://www.amazon.com/gp/product/B0HQ1BMWYP)**
+
+**Every poker player wants an edge. Dan “Jungleman” Cates wanted to understand the game itself.**
+
+A high-stakes river decision, a breadstick, and a fold became an unforgettable televised image. But this biography follows the larger story: from a Maryland basement and online heads-up battles to elite live poker, rivalry, reinvention, and the difficult work of understanding oneself.
+
+**Golden Thread:** Control versus chaos. The analytical mind versus the unpredictable human being. Daniel Cates versus Jungleman.
+
+*Unauthorized biography. No authorization or endorsement by Dan Cates is implied.*
 
 ### In the Ed Reif publishing network
 
@@ -54,4 +84,4 @@ Like *Broke Living, High Rolling*, this is an unauthorized biography; no endorse
 - [Decision Science — poker, probability and judgment](https://www.thereisnolimitlikenolimit.com/)
 - [Amazon author profile](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3)
 
-**Editorial note:** This is an unauthorized, independently written biography. No endorsement, collaboration or authorization by Jean-Robert Bellande is implied. The book's narrative claims should be evaluated against their cited sources.
+**Editorial note:** These are independently written, unauthorized biographies. No endorsement, collaboration or authorization by their subjects is implied. Biographical claims should be evaluated against the books' cited sources.
