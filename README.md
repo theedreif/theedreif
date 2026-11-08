@@ -44,7 +44,7 @@ I design learning and decision systems for the point where plans meet reality—
 
 ### ED REIF — BOOKS & AUTHOR PROFILE
 
-**NEW — [14 ElevenReader audiobooks](AUDIOBOOKS.md)** — Listen to Ed Reif’s audiobook library with the published runtimes. [Browse the public listening catalogue](https://theedreif.github.io/theedreif/audiobooks/).
+**NEW — [16 audiobook listings: 14 ElevenReader + 2 Audible](AUDIOBOOKS.md)** — Includes *Who Wants to Be a Time Millionaire* and *Charting Love (Book 1)* on Audible/Amazon. Running times are included where supplied. [Browse the public listening catalogue](https://theedreif.github.io/theedreif/audiobooks/).
 
 **NEW — [HOTEL @NYWARE: The World Was Our Address](https://www.amazon.com/dp/B0HQWK8L88/)** — The blog-to-book memoir is on Amazon.
 
