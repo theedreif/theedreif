@@ -1,6 +1,6 @@
 # Ed Reif — Audiobooks & New Books
 
-14 ElevenReader audiobook listings supplied by the author, with stated running times where provided. Listen or view each title using the linked ElevenReader page.
+16 audiobook listings: 14 on ElevenReader and 2 additional titles on Audible/Amazon. Running times are listed where supplied; links take you to the corresponding listing.
 
 | # | Audiobook | Duration |
 |---:|---|---:|
@@ -18,6 +18,15 @@
 | 12 | [Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande](https://elevenreader.io/audiobooks/broke-living-high-rolling-the-unauthorized-biography-of-jean-robert-bellande-audiobook/s5WttYt81wEEzWs5owCv) | 2h 29m |
 | 13 | [Queen of the Big Game](https://elevenreader.io/audiobooks/queen-of-the-big-game-audiobook/M3N9mmUmfrupMz7UTOvQ) | 2h 9m |
 | 14 | [ME AND MY BIG MOUTH](https://elevenreader.io/audiobooks/me-and-my-big-mouth-audiobook/oYcZemE3Vbx545eRBKQQ) | Not provided |
+
+## Audible editions — also available on Amazon
+
+| # | Audiobook | Platform | Duration |
+|---:|---|---|---|
+| 15 | [Who Wants to Be a Time Millionaire](https://www.amazon.com/Who-Wants-Time-Millionaire-Inspirational/dp/B0FJNL5PW1) | Audible / Amazon | Not provided |
+| 16 | [Charting Love (Book 1)](https://www.amazon.com/gp/product/B0FJBHN4BZ) | Audible / Amazon | Not provided |
+
+*The Audible edition of Charting Love (Book 1) is listed separately from the ElevenReader CHARTING LOVE edition above. Runtimes for the two Audible editions were not supplied.*
 
 ## New on Amazon — HOTEL @NYWARE
 
