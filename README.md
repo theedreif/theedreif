@@ -44,7 +44,11 @@ I design learning and decision systems for the point where plans meet reality—
 
 ### ED REIF — BOOKS & AUTHOR PROFILE
 
-**Published library: 19 books** spanning decision science, operational readiness, life at sea, travel and poker. [Explore the author catalogue on Amazon](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3).
+**NEW — [14 ElevenReader audiobooks](AUDIOBOOKS.md)** — Listen to Ed Reif’s audiobook library with the published runtimes. [Browse the public listening catalogue](https://theedreif.github.io/theedreif/audiobooks/).
+
+**NEW — [HOTEL @NYWARE: The World Was Our Address](https://www.amazon.com/dp/B0HQWK8L88/)** — The blog-to-book memoir is on Amazon.
+
+**Published library: Books** spanning decision science, operational readiness, life at sea, travel and poker. [Explore the author catalogue on Amazon](https://www.amazon.com/stores/Ed-Reif/author/B0FGWN1QN3).
 
 **New biography — [Broke Living, High Rolling: The Unauthorized Biography of Jean-Robert Bellande](BROKE-LIVING-HIGH-ROLLING.md)** — An independently authored poker biography. [View on Amazon](https://www.amazon.com/dp/B0HP8MRNX9/).
 
