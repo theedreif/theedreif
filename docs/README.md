@@ -20,3 +20,8 @@ Created by [Ed Reif](https://www.edreif.com/).
 For the complete human + machine-readable architecture, see [START HERE](../START-HERE.md).
 
 **Poker-specific YouTube channel:** [Poker Rewires | Upgrade Your Poker](https://www.youtube.com/@theofficialedreif/videos) (@theofficialedreif). Ed Reif also owns a separate [Latitude Films YouTube channel](https://www.youtube.com/@latitudefilms) (@latitudefilms) for film, travel and life stories. Both links are intentional.
+
+
+## Operational Readiness Answer Library
+
+[Read the six original guides, comparisons and practical tools](https://theedreif.github.io/theedreif/answers/). The library is part of the Seven Doors Field System, not a new Door. All pages state evidentiary limits and point to canonical doctrine.

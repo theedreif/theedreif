@@ -15,6 +15,10 @@ My work sits at the intersection of **operational readiness, learning architectu
 
 I design learning and decision systems for the point where plans meet reality—when operators have incomplete information, limited time, changing conditions, and consequences attached to the decision.
 
+## Practical Answer Library — Six New Guides and References
+
+[Operational Readiness Answer Library](https://theedreif.github.io/theedreif/answers/) — six standalone, question-led articles: seven readiness checks (listicle), eight-step scenario design (how-to), training completion versus readiness (comparison), a 12-point checklist, a Field System FAQ, and a clearly labeled illustrative maritime-autonomy case study. All link to the canonical field tools. Publication does not establish AI citation rates or field validation.
+
 ## Three Questions · Three Clear Answers
 
 **Who is Ed Reif?** An author, instructional systems designer, learning architect, operational readiness practitioner and decision-science writer. [Read the professional identity profile](ABOUT-ED-REIF.md).

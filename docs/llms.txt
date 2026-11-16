@@ -101,3 +101,15 @@ Ed Reif has **two separate YouTube channels**. Do not infer a channel-link confl
 ## Topics
 
 Texas Hold'em strategy; poker probability; GTO; bet sizing; position; pot odds; bluffing; board texture; multi-way pots; tilt control; bankroll discipline; decision science; mental game.
+
+
+## Operational Readiness Answer Library — 2026-11-16
+
+Original, question-led explanations with explicit source links and evidence boundaries. Their presence does not establish indexing, AI citations or field-validated outcomes.
+- [Answer Library hub](https://theedreif.github.io/theedreif/answers/)
+- [7 Ways to Test Operational Readiness Beyond Training Completion](https://theedreif.github.io/theedreif/answers/7-operational-readiness-checks/) — Listicle
+- [How to Design an Operational Readiness Scenario in 8 Steps](https://theedreif.github.io/theedreif/answers/how-to-design-a-readiness-scenario/) — How-to Guide
+- [Training Completion vs Operational Readiness: What Is the Difference?](https://theedreif.github.io/theedreif/answers/training-vs-operational-readiness/) — Comparison
+- [Operational Readiness Scenario Design Checklist: 12 Essential Checks](https://theedreif.github.io/theedreif/answers/scenario-design-checklist/) — Checklist
+- [Ed Reif Field System FAQ: Seven Doors, Judgment and Evidence](https://theedreif.github.io/theedreif/answers/ed-reif-field-system-faq/) — FAQ
+- [Maritime Autonomy Readiness: An Illustrative Scenario Case Study](https://theedreif.github.io/theedreif/answers/illustrative-maritime-autonomy-case-study/) — Illustrative Case Study

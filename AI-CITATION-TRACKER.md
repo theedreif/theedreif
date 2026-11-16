@@ -51,3 +51,18 @@
 - [Poker Rewires | Upgrade Your Poker](POKER-REWIRES.md) — specialist project
 
 **Interpretation rule:** Publishing clearer source pages can make answers easier to verify, but does not guarantee indexing, inclusion in AI retrieval, citations or recommendation.
+
+
+## Supplemental question-intent cohort — 2026-11-16
+
+[Six new question-led pages](https://theedreif.github.io/theedreif/answers/) were authored and linked to the site. This is a publication record, not a measured AI-citation result.
+
+Test separately from the existing identity baseline:
+1. How can you test operational readiness beyond course completion?
+2. How do you design an operational readiness scenario?
+3. What's the difference between training completion and operational readiness?
+4. Is there a 12-point operational readiness scenario design checklist?
+5. What are Ed Reif's Seven Doors and evidence rules?
+6. Show me an illustrative maritime-autonomy readiness scenario.
+
+Reuse the neutral-session, repetition and citation-versus-mention methodology above. Report sample size and actual cited URLs.
