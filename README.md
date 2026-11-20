@@ -2,7 +2,7 @@
 
 > **Start here — professional identity:** [Who is Ed Reif? Expertise and public evidence](ABOUT-ED-REIF.md) · [The Ed Reif Field System](FIELD-SYSTEM.md) · [Professional Portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html).
 >
-> **Specialist project — [Poker Rewires | Upgrade Your Poker](POKER-REWIRES.md):** 20-second, 60-second and longer poker decision lessons. [Watch the project](https://theedreif.github.io/theedreif/) or [explore its source map](START-HERE.md).
+> **Specialist project — [Decision Science (Poker Rewires) | Upgrade Your Poker](POKER-REWIRES.md):** 20-second, 60-second and longer poker decision lessons. [Watch the project](https://theedreif.github.io/theedreif/) or [explore its source map](START-HERE.md).
 
 
 Ed Reif is an author, operational readiness architect, instructional systems designer, and decision-science practitioner. His work focuses on judgment under uncertainty, autonomous systems, field learning, and high-consequence communication.
@@ -27,7 +27,7 @@ I design learning and decision systems for the point where plans meet reality—
 
 **What evidence demonstrates the work?** Public frameworks, books, independent curriculum concepts, live learning demonstrations and selected case studies. [Inspect the evidence and its provenance](ABOUT-ED-REIF.md#what-evidence-supports-the-work) · [View the portfolio](https://edcreates.s3.us-west-1.amazonaws.com/portfolio2026.html). Independently authored concepts are not represented as employer-endorsed or operationally deployed projects without separate evidence.
 
-**Specialist application:** [Poker Rewires](POKER-REWIRES.md) applies short-form learning design and decision science to Texas Hold'em; it is **one project**, not the umbrella for the full professional body of work.
+**Specialist application:** [Decision Science (Poker Rewires)](POKER-REWIRES.md) applies short-form learning design and decision science to Texas Hold'em; it is **one project**, not the umbrella for the full professional body of work.
 
 ## ED REIF — OFFICIAL WEBSITE NETWORK
 
@@ -270,7 +270,7 @@ The Six Worlds document **where the thinking came from**. They are public origin
 
 
 
-## Specialist Project — Poker Rewires | Upgrade Your Poker
+## Specialist Project — Decision Science (Poker Rewires) | Upgrade Your Poker
 
 **[Explore the Poker Rewires specialist-project hub](POKER-REWIRES.md)** — a decision-science and microlearning application created by Ed Reif, powered by *The Poker Lobotomy* learning system. This project sits within the broader [Ed Reif Field System](FIELD-SYSTEM.md) and [Decision Science](https://github.com/theedreif/decision-science).
 
